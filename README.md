@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
  <div>
   
   <a href="https://www.instagram.com/_negueba__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoradhavydthawan26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:dhavydthawan26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/dhavyd-thawan-silva-dos-santos-189735226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/DhavydThawan/DhavydThawan/blob/output/github-contribution-grid-snake.svg)
